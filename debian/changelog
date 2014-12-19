@@ -1,0 +1,5 @@
+fluid (0.3-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Rohan Garg <rohangarg@kubuntu.org>  Fri, 19 Dec 2014 15:50:00 +0100

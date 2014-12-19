@@ -1,0 +1,5 @@
+{
+    "type" : "git",
+    "url" : "git://github.com/mauios/fluid",
+    "branch" : "master"
+}
